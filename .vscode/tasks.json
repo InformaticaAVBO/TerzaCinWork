@@ -6,6 +6,9 @@
             "command": "/usr/bin/g++",
             "args": [
                 "-fdiagnostics-color=always",
+                "-fopenmp",
+                "-I/opt/homebrew/opt/libomp/include",
+                "-L/opt/homebrew/opt/libomp/lib",
                 "-g",
                 "${file}",
                 "-o",
