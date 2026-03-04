@@ -1,6 +1,6 @@
 
 #include <stdio.h>
-#include "/opt/homebrew/opt/libomp/include/omp.h"
+#include <omp.h>
 
 int main(void)
 {

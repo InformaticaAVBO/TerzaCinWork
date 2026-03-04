@@ -3,12 +3,16 @@
         {
             "name": "Mac",
             "includePath": [
-                "${workspaceFolder}/**"
+                "${workspaceFolder}/**",
+                "/opt/homebrew/opt/libomp/include"
             ],
             "defines": [],
             "cStandard": "c17",
             "cppStandard": "c++14",
-            "intelliSenseMode": "macos-clang-arm64"
+            "intelliSenseMode": "macos-clang-arm64",
+            "compilerArgs": [
+                "-I/opt/homebrew/opt/libomp/include/omp.h"
+            ]
         }
     ],
     "version": 4

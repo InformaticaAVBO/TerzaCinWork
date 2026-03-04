@@ -7,8 +7,8 @@
             "args": [
                 "-fdiagnostics-color=always",
                 "-fopenmp",
-                "-I/opt/homebrew/opt/libomp/include",
-                "-L/opt/homebrew/opt/libomp/lib",
+                "-I/opt/homebrew/opt/libomp/21.1.8/include",
+                "-L/opt/homebrew/opt/libomp/21.1.8/lib",
                 "-g",
                 "${file}",
                 "-o",
