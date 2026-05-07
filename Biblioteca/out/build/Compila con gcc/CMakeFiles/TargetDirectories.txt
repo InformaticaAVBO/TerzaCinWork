@@ -1,0 +1,3 @@
+/workspaces/TerzaCinWork/Biblioteca/out/build/Compila con gcc/CMakeFiles/Biblioteca.dir
+/workspaces/TerzaCinWork/Biblioteca/out/build/Compila con gcc/CMakeFiles/edit_cache.dir
+/workspaces/TerzaCinWork/Biblioteca/out/build/Compila con gcc/CMakeFiles/rebuild_cache.dir

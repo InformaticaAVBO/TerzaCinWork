@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/workspaces/TerzaCinWork/Biblioteca/out/build/Compila con gcc",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Biblioteca.dir/Biblioteca.cpp.o -c /workspaces/TerzaCinWork/Biblioteca/Biblioteca.cpp",
+  "file": "/workspaces/TerzaCinWork/Biblioteca/Biblioteca.cpp",
+  "output": "CMakeFiles/Biblioteca.dir/Biblioteca.cpp.o"
+},
+{
+  "directory": "/workspaces/TerzaCinWork/Biblioteca/out/build/Compila con gcc",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Biblioteca.dir/Libro.cpp.o -c /workspaces/TerzaCinWork/Biblioteca/Libro.cpp",
+  "file": "/workspaces/TerzaCinWork/Biblioteca/Libro.cpp",
+  "output": "CMakeFiles/Biblioteca.dir/Libro.cpp.o"
+},
+{
+  "directory": "/workspaces/TerzaCinWork/Biblioteca/out/build/Compila con gcc",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/Biblioteca.dir/main.cpp.o -c /workspaces/TerzaCinWork/Biblioteca/main.cpp",
+  "file": "/workspaces/TerzaCinWork/Biblioteca/main.cpp",
+  "output": "CMakeFiles/Biblioteca.dir/main.cpp.o"
+}
+]
